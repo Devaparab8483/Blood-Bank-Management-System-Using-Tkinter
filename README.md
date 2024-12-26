@@ -42,7 +42,7 @@ This is a simple Blood Bank Management System implemented using Python and Tkint
 1. Run the script using Python:
 
    ```bash
-   python blood_bank_management.py
+   python blood_bank.py
    ```
 
 2. The GUI will open:
@@ -56,7 +56,7 @@ This is a simple Blood Bank Management System implemented using Python and Tkint
 
 ## File Structure
 
-- **blood_bank_management.py**: The main Python script for the application.
+- **blood_bank.py**: The main Python script for the application.
 - **blood_donors.json**: JSON file where donor data is stored. This file is automatically created after adding a donor.
 
 ---
