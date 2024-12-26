@@ -94,7 +94,6 @@ This is a simple Blood Bank Management System implemented using Python and Tkint
 
 ## Screenshots
 
-Include screenshots of the application for better visualization (e.g., add donor form, search results).
 ![image](https://github.com/user-attachments/assets/dff29b86-0f27-4dc4-8fbb-633711990d13)
 
 ---
