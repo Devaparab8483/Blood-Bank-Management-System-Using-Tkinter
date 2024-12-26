@@ -1,5 +1,4 @@
 # Blood-Bank-Management-System-Using-Tkinter
-# Blood Bank Management System
 
 This is a simple Blood Bank Management System implemented using Python and Tkinter. The application allows you to manage blood donor records and search for donors based on their blood types. It provides a user-friendly graphical interface to add, search, and display donor information.
 
